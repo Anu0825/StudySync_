@@ -1,19 +1,15 @@
-##StudySync
+# StudySync
 
 StudySync is a simple and responsive educational website built using only HTML and CSS. It provides a seamless learning experience with a clean and modern UI.
 
-###Features
+## Features
 
-Fully responsive design
+- Fully responsive design  
+- Intuitive navigation  
+- Engaging sections (Features, Testimonials, Newsletter, etc.)  
+- Modern layout and aesthetics  
 
-Intuitive navigation
+## Technologies Used
 
-Engaging sections (Features, Testimonials, Newsletter, etc.)
-
-Modern layout and aesthetics
-
-###Technologies Used
-
-HTML
-
-CSS
+- HTML  
+- CSS  
